@@ -1,0 +1,36 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Services.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Services\obj\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\obj\Debug\Infrastructure.Services.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\obj\Debug\Infrastructure.Services.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\obj\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Services\obj\Debug\Infrastructure.Services.pdb

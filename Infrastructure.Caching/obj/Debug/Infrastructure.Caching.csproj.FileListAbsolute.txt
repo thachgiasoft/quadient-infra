@@ -1,0 +1,48 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Services.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Caching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Caching\obj\Debug\Infrastructure.Caching.pdb

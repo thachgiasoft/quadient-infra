@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{796CEF9B-801C-4E48-970E-895618C18978}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.Core</RootNamespace>
+    <AssemblyName>Infrastructure.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Caching\CacheClient.cs" />
+    <Compile Include="Caching\ICacheManager.cs" />
+    <Compile Include="Caching\ObjectPutEventArgs.cs" />
+    <Compile Include="ComponentModelOperations\EnumOperations.cs" />
+    <Compile Include="ComponentModel\Enums.cs" />
+    <Compile Include="ComponentModel\GenericListTypeConverter.cs" />
+    <Compile Include="Configuration\ConfigurationManagerWrapper.cs" />
+    <Compile Include="Configuration\IConfigurationManager.cs" />
+    <Compile Include="Configuration\CoreConfiguration.cs" />
+    <Compile Include="CoreConsts.cs" />
+    <Compile Include="Cryptography\HashAlgorithmEnum.cs" />
+    <Compile Include="Cryptography\ICoreCryptography.cs" />
+    <Compile Include="Cryptography\CoreCryptography.cs" />
+    <Compile Include="DependencyManagemenet\ContainerManager.cs" />
+    <Compile Include="DependencyManagemenet\ILifeTimeScopeProvider.cs" />
+    <Compile Include="DependencyManagemenet\INeedDependencyRegistrar.cs" />
+    <Compile Include="DependencyManagemenet\LifeTimeScopeProviderHelper.cs" />
+    <Compile Include="DependencyManagemenet\StaticAppLifetimeScopeProvider.cs" />
+    <Compile Include="Extensions\ConvertionExtensions.cs" />
+    <Compile Include="Extensions\ObjectExtensions.cs" />
+    <Compile Include="Extensions\ReflectionExtensions.cs" />
+    <Compile Include="Helpers\ConvertionHelper.cs" />
+    <Compile Include="Helpers\DateTimeHelper.cs" />
+    <Compile Include="Extensions\SerializationExtensions.cs" />
+    <Compile Include="Extensions\StringProcessingExtensions.cs" />
+    <Compile Include="Extensions\TypeValidationExtensions.cs" />
+    <Compile Include="Helpers\SerializationHelper.cs" />
+    <Compile Include="Logging\DefaultLogger.cs" />
+    <Compile Include="Logging\ILogger.cs" />
+    <Compile Include="Settings\BaseSettingObserver.cs" />
+    <Compile Include="Settings\ConfigFileSettingProvider.cs" />
+    <Compile Include="Settings\TestSettingObserver.cs" />
+    <Compile Include="Extensions\EnumExtensions.cs" />
+    <Compile Include="Fakes\Extensions.cs" />
+    <Compile Include="Fakes\FakeHttpContext.cs" />
+    <Compile Include="Fakes\FakeHttpRequest.cs" />
+    <Compile Include="Fakes\FakeHttpResponse.cs" />
+    <Compile Include="Fakes\FakeHttpSessionState.cs" />
+    <Compile Include="Fakes\FakeIdentity.cs" />
+    <Compile Include="Fakes\FakePrincipal.cs" />
+    <Compile Include="Helpers\CommonHelper.cs" />
+    <Compile Include="Helpers\GenericTypeHelper.cs" />
+    <Compile Include="Helpers\PermissionHelper.cs" />
+    <Compile Include="Helpers\TemplateParser.cs" />
+    <Compile Include="HybridContext.cs" />
+    <Compile Include="Infrastructure\EventBroker.cs" />
+    <Compile Include="Infrastructure\IEngine.cs" />
+    <Compile Include="Infrastructure\Singleton.cs" />
+    <Compile Include="Infrastructure\Engine.cs" />
+    <Compile Include="Infrastructure\EngineContext.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistryManager\IRegistryManager.cs" />
+    <Compile Include="RegistryManager\RegistryManager.cs" />
+    <Compile Include="Security\AntiHeaderManipulation.cs" />
+    <Compile Include="Security\AntiLogForging.cs" />
+    <Compile Include="Security\AntiSqlInjection.cs" />
+    <Compile Include="Security\IImpersonator.cs" />
+    <Compile Include="Security\Impersonator.cs" />
+    <Compile Include="Security\SecureRandom.cs" />
+    <Compile Include="Settings\SettingNotification.cs" />
+    <Compile Include="Settings\SettingNotify.cs" />
+    <Compile Include="Settings\ISetting.cs" />
+    <Compile Include="Settings\ISettingProvider.cs" />
+    <Compile Include="Settings\Setting.cs" />
+    <Compile Include="TypeFinders\AppDomainTypeFinder.cs" />
+    <Compile Include="TypeFinders\ITypeFinder.cs" />
+    <Compile Include="TypeFinders\WebAppTypeFinder.cs" />
+    <Compile Include="WcfInstanceContext.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Exceptions\Infrastructure.Exceptions.csproj">
+      <Project>{64882546-E712-41BE-9F11-C641070B1DDE}</Project>
+      <Name>Infrastructure.Exceptions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+Other similar extension points exist, see Microsoft.Common.targets.
+<Target Name="BeforeBuild">
+</Target>
+<Target Name="AfterBuild">
+</Target>
+-->
+</Project>

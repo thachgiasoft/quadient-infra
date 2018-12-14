@@ -1,0 +1,44 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\C5.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Common.Logging.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Common.Logging.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Quartz.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\C5.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Common.Logging.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Common.Logging.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Quartz.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.JobScheduling.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Job.Scheduler\obj\Debug\Infrastructure.JobScheduling.pdb

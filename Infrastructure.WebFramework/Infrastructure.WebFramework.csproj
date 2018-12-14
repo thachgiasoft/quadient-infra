@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B36EA81-44EE-47B1-9ED5-3186BB7A9C39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.WebFramework</RootNamespace>
+    <AssemblyName>Infrastructure.WebFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Antlr3.Runtime\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Mvc">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac.Mvc\Autofac.Integration.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Web">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac.Web\Autofac.Integration.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\HtmlAgilityPack\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.Web.Infrastructure\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.AspNet.WebPages\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.AspNet.Mvc\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.AspNet.Web.Optimization\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.AspNet.Razor\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Microsoft.AspNet.WebPages\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebGrease">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\WebGrease\WebGrease.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attributes\DefineAttribute.cs" />
+    <Compile Include="BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bundles\BundleExtensions.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\ContollerExtensions.cs" />
+    <Compile Include="DataAnnotations\RequiredIfAttribute.cs" />
+    <Compile Include="DependencyRegistrar.cs" />
+    <Compile Include="Fakes\FakeWebPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fakes\InfraScript.cs" />
+    <Compile Include="Fakes\IPage.cs" />
+    <Compile Include="Fakes\IPageScriptManager.cs" />
+    <Compile Include="Fakes\PageScriptManager.cs" />
+    <Compile Include="Filters\SetCurrentController.cs" />
+    <Compile Include="Helpers\CommonWebHelper.cs" />
+    <Compile Include="Helpers\IWebHelper.cs" />
+    <Compile Include="Helpers\WebHelper.cs" />
+    <Compile Include="Mvc\DefaultDependencyResolver.cs" />
+    <Compile Include="Mvc\Routes\IRouteProvider.cs" />
+    <Compile Include="Mvc\Routes\IRoutePublisher.cs" />
+    <Compile Include="Mvc\Routes\RoutePublisher.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\HtmlSanitizer.cs" />
+    <Compile Include="Security\ResponseExtensions.cs" />
+    <Compile Include="Security\SecureDataBinder.cs" />
+    <Compile Include="UI\Extensions\CollectionExtensions.cs" />
+    <Compile Include="UI\Interactions\IMessageBoxInteractions.cs" />
+    <Compile Include="UI\Interactions\MvcMessageBoxInteractions.cs" />
+    <Compile Include="UI\Interactions\UserInterfaceInteractions.cs" />
+    <Compile Include="UI\Interactions\WebFormsMessageBoxInteractions.cs" />
+    <Compile Include="ViewEngine\Razor\SeperatedRazorViewEngine.cs" />
+    <Compile Include="ViewEngine\Razor\WebViewPage.cs" />
+    <Compile Include="Web\DefaultContainerProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Core\Infrastructure.Core.csproj">
+      <Project>{796CEF9B-801C-4E48-970E-895618C18978}</Project>
+      <Name>Infrastructure.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+Other similar extension points exist, see Microsoft.Common.targets.
+<Target Name="BeforeBuild">
+</Target>
+<Target Name="AfterBuild">
+</Target>
+-->
+</Project>

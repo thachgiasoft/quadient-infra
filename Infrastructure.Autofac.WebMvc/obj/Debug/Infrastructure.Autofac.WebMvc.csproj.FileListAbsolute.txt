@@ -1,0 +1,39 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Autofac.Integration.Mvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\System.Web.Mvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Autofac.Integration.Mvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\System.Web.Mvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Autofac.WebMvc.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebMvc\obj\Debug\Infrastructure.Autofac.WebMvc.pdb

@@ -1,0 +1,44 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\AntiXSSLibrary.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\AntiXSSLibrary.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.DirectoryServices.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DirectoryServices\obj\Debug\Infrastructure.DirectoryServices.pdb

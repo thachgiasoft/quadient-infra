@@ -1,0 +1,83 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\pof-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\pof-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Coherence.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Common.Logging.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\StackExchange.Redis.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Coherence.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Common.Logging.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Newtonsoft.Json.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\StackExchange.Redis.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\coherence_config_prod\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Newtonsoft.Json.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.DistributedCaching\obj\Debug\Infrastructure.DistributedCaching.pdb

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C5DCA41-AAAD-467F-A8E9-B5A0977A9C5E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.Data</RootNamespace>
+    <AssemblyName>Infrastructure.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\EnterpriseLibrary.Common\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\EnterpriseLibrary.Data\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\IB.Redistributable\SharedAssemblies\Microsoft\SqlServerTypes\10.0\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auditing\EmptyAudit.cs" />
+    <Compile Include="Auditing\IAudit.cs" />
+    <Compile Include="ComponentModelOperations\DataTableFilter.cs" />
+    <Compile Include="ComponentModelOperations\DataTableEnumConverter.cs" />
+    <Compile Include="ComponentModelOperations\DataTableJoin.cs" />
+    <Compile Include="ComponentModel\BaseHierarchyData.cs" />
+    <Compile Include="ComponentModel\Enums.cs" />
+    <Compile Include="ComponentModel\AutoIncColNameAttribute.cs" />
+    <Compile Include="ComponentModel\CallLoglanacakAttribute.cs" />
+    <Compile Include="ComponentModel\CustomAttributes.cs" />
+    <Compile Include="ComponentModel\DefaultDatabaseAttribute.cs" />
+    <Compile Include="ComponentModel\FullTableNameAttribute.cs" />
+    <Compile Include="ComponentModel\SearchCriteriaParameter.cs" />
+    <Compile Include="ComponentModel\ServiceConnectionNameAttribute.cs" />
+    <Compile Include="ComponentModel\ShortNameAttribute.cs" />
+    <Compile Include="Configuration\Connection.cs" />
+    <Compile Include="Configuration\RegistryConfigurationSource.cs" />
+    <Compile Include="Consts.cs" />
+    <Compile Include="DatabaseLite.cs" />
+    <Compile Include="DatabaseManagement\EnterpriseDatabaseFactory.cs" />
+    <Compile Include="Configuration\DefaultDataConfigurationSettings.cs" />
+    <Compile Include="EnterpriseLibrary\EnterpriseDatabase.cs" />
+    <Compile Include="Extensions\DatabaseLiteExtensions.cs" />
+    <Compile Include="Extensions\DataTableExtensions.cs" />
+    <Compile Include="Extensions\DataTableEnumExtensions.cs" />
+    <Compile Include="Extensions\DbCommandExtensionsExtensions.cs" />
+    <Compile Include="Extensions\MappingExtensions.cs" />
+    <Compile Include="Helpers\RecursionHelper.cs" />
+    <Compile Include="IDatabase.cs" />
+    <Compile Include="IDatabaseLite.cs" />
+    <Compile Include="IDataConfigurationSettings.cs" />
+    <Compile Include="DatabaseManagement\IDatabaseFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spatial\PointD.cs" />
+    <Compile Include="Spatial\SpatialDataHelper.cs" />
+    <Compile Include="TransactionManagement\GenericTransaction.cs" />
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Core\Infrastructure.Core.csproj">
+      <Project>{796cef9b-801c-4e48-970e-895618c18978}</Project>
+      <Name>Infrastructure.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure.Exceptions\Infrastructure.Exceptions.csproj">
+      <Project>{64882546-E712-41BE-9F11-C641070B1DDE}</Project>
+      <Name>Infrastructure.Exceptions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+Other similar extension points exist, see Microsoft.Common.targets.
+<Target Name="BeforeBuild">
+</Target>
+<Target Name="AfterBuild">
+</Target>
+-->
+</Project>

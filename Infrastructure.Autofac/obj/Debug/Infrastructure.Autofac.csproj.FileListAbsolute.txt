@@ -1,0 +1,45 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.Integration.Wcf.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.Integration.Mvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Autofac.Integration.Wcf.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Autofac.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac\obj\Debug\Infrastructure.Autofac.pdb

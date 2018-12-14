@@ -1,0 +1,73 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb

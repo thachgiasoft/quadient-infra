@@ -1,0 +1,37 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Autofac.Integration.Web.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Autofac.Integration.Web.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Autofac.WebForm.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\bin\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Autofac.WebForm\obj\Debug\Infrastructure.Autofac.WebForm.pdb

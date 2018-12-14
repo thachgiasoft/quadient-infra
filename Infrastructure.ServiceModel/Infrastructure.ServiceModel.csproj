@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2EE809B5-51D6-47EF-A64F-856CED7BA3D3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.ServiceModel</RootNamespace>
+    <AssemblyName>Infrastructure.ServiceModel</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.Wcf">
+      <HintPath>..\..\..\Redistributable\SharedAssemblies\LatestVersions\Autofac.Wcf\Autofac.Integration.Wcf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseServerObserver.cs" />
+    <Compile Include="ClientComputerInfo.cs" />
+    <Compile Include="DynamicProxy\Constants.cs" />
+    <Compile Include="DynamicProxy\DynamicObject.cs" />
+    <Compile Include="DynamicProxy\DynamicProxy.cs" />
+    <Compile Include="DynamicProxy\DynamicProxyException.cs" />
+    <Compile Include="DynamicProxy\DynamicProxyFactory.cs" />
+    <Compile Include="DynamicProxy\DynamicProxyFactoryOptions.cs" />
+    <Compile Include="DynamicServiceInvoke.cs" />
+    <Compile Include="IServiceEndpointProvider.cs" />
+    <Compile Include="ServerInfo.cs" />
+    <Compile Include="ServerNotification.cs" />
+    <Compile Include="ServerNotify.cs" />
+    <Compile Include="DefaultServiceContextInfo.cs" />
+    <Compile Include="DefaultServiceContextInfoProvider.cs" />
+    <Compile Include="Extensions\DataTransaferObjectExtensions.cs" />
+    <Compile Include="IService.cs" />
+    <Compile Include="IServiceChannelFactory.cs" />
+    <Compile Include="ServiceChannelFactory.cs" />
+    <Compile Include="ServiceContextInfo.cs" />
+    <Compile Include="ServiceContextInfoProvider.cs" />
+    <Compile Include="ServiceHosting\Attributes\AuditDataChanges.cs" />
+    <Compile Include="ServiceHosting\BackendClientMessageInspector.cs" />
+    <Compile Include="ServiceHosting\Behaviors\BackendClientMessageInspectorBehavior.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceHosting\Extensions\ErrorHandlerBehaviorExtension.cs" />
+    <Compile Include="ServiceHosting\Extensions\OperationInspectorBehaviorExtension.cs" />
+    <Compile Include="ServiceHosting\Extensions\ParameterInspectorBehaviorExtension.cs" />
+    <Compile Include="ServiceHosting\Extensions\WsdlExportExtension.cs" />
+    <Compile Include="ServiceLibrary\ServiceBase.cs" />
+    <Compile Include="ServiceResult.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Core\Infrastructure.Core.csproj">
+      <Project>{796CEF9B-801C-4E48-970E-895618C18978}</Project>
+      <Name>Infrastructure.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure.Exceptions\Infrastructure.Exceptions.csproj">
+      <Project>{64882546-e712-41be-9f11-c641070b1dde}</Project>
+      <Name>Infrastructure.Exceptions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+Other similar extension points exist, see Microsoft.Common.targets.
+<Target Name="BeforeBuild">
+</Target>
+<Target Name="AfterBuild">
+</Target>
+-->
+</Project>

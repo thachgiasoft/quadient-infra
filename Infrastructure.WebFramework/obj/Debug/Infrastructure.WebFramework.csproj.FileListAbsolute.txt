@@ -1,0 +1,63 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.Integration.Web.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Helpers.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Mvc.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Optimization.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Razor.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.WebPages.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\WebGrease.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Optimization.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Antlr3.Runtime.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.Integration.Mvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Autofac.Integration.Web.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\HtmlAgilityPack.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Helpers.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Mvc.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Optimization.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Razor.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.WebPages.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\WebGrease.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\System.Web.Optimization.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.WebFramework.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\System.Web.Optimization.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.WebFramework\obj\Debug\Infrastructure.WebFramework.pdb

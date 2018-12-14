@@ -1,0 +1,23 @@
+﻿<?xml version='1.0'?>
+<coherence xmlns="http://xmlns.oracle.com/coherence/coherence-operational-config">
+  <cluster-config>
+    <member-identity>
+      <cluster-name>EBakanlikCoherenceCluster</cluster-name>
+    </member-identity>
+
+    <multicast-listener>
+      <address>10.0.4.171</address>
+      <port>9099</port>
+      <time-to-live>0</time-to-live>
+    </multicast-listener>
+  </cluster-config>
+
+  <configurable-cache-factory-config>
+    <init-params>
+      <init-param>
+        <param-type>java.lang.String</param-type>
+        <param-value system-property="tangosol.coherence.cacheconfig">coherence-cache-config.xml</param-value>
+      </init-param>
+    </init-params>
+  </configurable-cache-factory-config>
+</coherence>

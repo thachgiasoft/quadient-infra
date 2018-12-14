@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<!--
+| Copyright (c) 2000, 2016, Oracle and/or its affiliates. All rights reserved.
+|
+| Oracle is a registered trademarks of Oracle Corporation and/or its affiliates.
+|
+| This software is the confidential and proprietary information of
+| Oracle Corporation.  You shall not disclose such confidential and
+| proprietary information and shall use it only in accordance with the
+| terms of the license agreement you entered into with Oracle.
+|
+| This notice may not be removed or altered.
+-->
+
+<coherence xmlns="http://schemas.tangosol.com/coherence">
+  <logging-config>
+    <!--<destination>stderr</destination>-->
+    <destination>coherence_log/coherence.log</destination>
+    <severity-level>9</severity-level>
+    <message-format>{date} &lt;{level}&gt; (thread={thread}): {text}</message-format>
+  </logging-config>
+  <security-config>
+    <identity-transformer>
+      <class-name>Infrastructure.DistributedCaching.PasswordIdentityTransformer, Infrastructure.DistributedCaching</class-name>
+    </identity-transformer>
+    <principal-scope>true</principal-scope>
+  </security-config>
+</coherence>

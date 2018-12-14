@@ -1,0 +1,99 @@
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\coherence.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\pof-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\pof-config.xml
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe.config
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Autofac.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Autofac.Integration.Wcf.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Coherence.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\StackExchange.Redis.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Services.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Common.Logging.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Core.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Services.pdb
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csprojAssemblyReference.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CoreCompileInputs.cache
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CopyComplete
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.exe
+D:\Projects\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\coherence_config_prod\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe.config
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Console.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Autofac.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Autofac.Integration.Wcf.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Coherence.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\StackExchange.Redis.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Newtonsoft.Json.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Common.Logging.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.exe
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\Infrastructure.Console\obj\Debug\Infrastructure.Console.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence-cache-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config_prod\coherence.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\coherence_config_prod\pof-config.xml
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe.config
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Console.exe
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Console.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\StackExchange.Redis.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Services.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Newtonsoft.Json.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Common.Logging.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Microsoft.WindowsFabric.Common.dll
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Core.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.DistributedCaching.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.ServiceModel.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Exceptions.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\bin\Debug\Infrastructure.Services.pdb
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\obj\Debug\Infrastructure.Console.csprojAssemblyReference.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CoreCompileInputs.cache
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\obj\Debug\Infrastructure.Console.csproj.CopyComplete
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\obj\Debug\Infrastructure.Console.exe
+D:\bunch of codes\SharedProject\Dev\Src\Infrastructure\quadient-infra\Infrastructure.Console\obj\Debug\Infrastructure.Console.pdb
